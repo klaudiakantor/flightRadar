@@ -1,0 +1,36 @@
+name: flight-webapp-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - alembic=0.9.9=py_0
+  - ca-certificates=2018.4.16=0
+  - certifi=2018.4.16=py36_0
+  - flask-migrate=2.2.1=py36_0
+  - flask-sqlalchemy=2.3.2=py_0
+  - krb5=1.14.6=vc14_0
+  - libpq=9.6.3=vc14_0
+  - mako=1.0.7=py_1
+  - openssl=1.0.2o=vc14_0
+  - psycopg2=2.7.5=py36h74b6da3_1
+  - python-dateutil=2.7.3=py_0
+  - python-editor=1.0.3=py36_0
+  - six=1.11.0=py36_1
+  - sqlalchemy=1.2.10=py36hfa6e2cd_1
+  - tk=8.6.8=vc14_0
+  - vc=14=0
+  - zlib=1.2.11=vc14_0
+  - click=6.7=py36hec8c647_0
+  - flask=1.0.2=py36_1
+  - itsdangerous=0.24=py36_1
+  - jinja2=2.10=py36_0
+  - markupsafe=1.0=py36hfa6e2cd_1
+  - pip=10.0.1=py36_0
+  - python=3.6.6=hea74fb7_0
+  - setuptools=39.2.0=py36_0
+  - vs2015_runtime=15.5.2=3
+  - werkzeug=0.14.1=py36_0
+  - wheel=0.31.1=py36_0
+  - wincertstore=0.2=py36h7fe50ca_0
+prefix: C:\Users\kantork1\AppData\Local\Continuum\miniconda3\envs\flight-webapp-env
+
